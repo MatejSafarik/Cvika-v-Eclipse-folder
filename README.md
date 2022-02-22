@@ -1,2 +1,2 @@
 "# Eclipse" 
-Moja práca k predmetu OOP
+Moja praca na OOP
