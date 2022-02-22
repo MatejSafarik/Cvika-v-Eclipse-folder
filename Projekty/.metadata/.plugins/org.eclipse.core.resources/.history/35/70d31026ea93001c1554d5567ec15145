@@ -23,7 +23,6 @@ public class Game {
 			k[i].energy = 60;
 			o[i] = new BadOgre2();
 			o[i].energy = 150;
-			o[i].hungry = true;
 		}
 
 		for (int i = 40; i < 100; i++) {
