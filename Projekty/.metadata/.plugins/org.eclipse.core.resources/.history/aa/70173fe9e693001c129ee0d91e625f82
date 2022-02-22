@@ -1,0 +1,14 @@
+
+
+public class BadOgre2 extends BadOgre {	   
+	void revenge(Knight knight) {
+		if not (hungry)
+			eat(knight);
+	}
+	void eat(Knight knight) {
+		knight.energy = 0;
+	}
+
+}
+
+
