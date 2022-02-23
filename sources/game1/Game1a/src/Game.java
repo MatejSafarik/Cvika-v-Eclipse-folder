@@ -8,7 +8,7 @@ public class Game {
 		Knight k = new Knight();
 		Ogre o = new Ogre();
 		k.energy = 100;
-		o.energy = 120;
+		o.energy = 720;
 		
 		clash(o, k);
 

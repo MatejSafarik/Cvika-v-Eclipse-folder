@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Game2"/>
+	<classpathentry kind="src" path="Game2a"/>
+	<classpathentry kind="src" path="Game2b-Overriding"/>
+	<classpathentry kind="src" path="Game2c-Overloading"/>
+	<classpathentry kind="src" path="Game2d-Constructors"/>
+	<classpathentry kind="src" path="Game2e-Abstract_class"/>
+	<classpathentry kind="src" path="Game2f-Interface-Access_modifiers"/>
+	<classpathentry kind="src" path="Game2g-Aggregation"/>
+	<classpathentry kind="src" path="Game2h-Packages"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

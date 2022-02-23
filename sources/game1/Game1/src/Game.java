@@ -22,7 +22,7 @@ public class Game {
 			k[i] = new Knight2();
 			k[i].energy = 60;
 			o[i] = new BadOgre2();
-			o[i].energy = 150;
+			o[i].energy = 250;
 			o[i].hungry = true;
 		}
 
