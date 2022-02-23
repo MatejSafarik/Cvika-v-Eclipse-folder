@@ -1,2 +1,3 @@
 "# Eclipse" 
-Moja praca na OOP
+Matej Safarik.
+Moja praca na OOP.
