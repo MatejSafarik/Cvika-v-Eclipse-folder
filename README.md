@@ -1,2 +1,2 @@
 Matej Safarik.
-Moja praca na OOP.
+Moja praca s Javou cize OOP a DSA.
