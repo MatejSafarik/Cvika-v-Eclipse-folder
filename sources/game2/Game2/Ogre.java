@@ -3,6 +3,16 @@ public class Ogre implements Energy {
 	boolean hungry;
 	int energy;
 	
+	
+	
+	public Ogre() {
+	}
+	public Ogre(int energy) {
+		setEnergy(energy);
+	}
+	
+	
+	
 	public void setEnergy(int energy) {
 		this.energy = energy;
 	}
