@@ -3,10 +3,10 @@
 // projekt ktory budeme odovzdavat v 6 tyzdni by som ale uz chcel nakodit aspon z 90% po vlastnom
 
 
-
-import java.util.PriorityQueue;
-import java.util.Scanner;
-import java.util.Comparator;
+import java.util.*;
+//import java.util.PriorityQueue;
+//import java.util.Scanner;
+//import java.util.Comparator;
   
 // node class je zakladna struktura; kazdy HuffmanNode representuje node v Huffmanovom strome
 class HuffmanNode {
