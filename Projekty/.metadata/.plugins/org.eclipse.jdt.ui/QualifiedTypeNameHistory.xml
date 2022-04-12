@@ -10,7 +10,9 @@
     <fullyQualifiedTypeName name="javafx.event.ActionEvent"/>
     <fullyQualifiedTypeName name="javafx.stage.Stage"/>
     <fullyQualifiedTypeName name="javafx.fxml.FXML"/>
-    <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
     <fullyQualifiedTypeName name="javafx.scene.control.PasswordField"/>
     <fullyQualifiedTypeName name="javafx.scene.control.Label"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.ChoiceBox"/>
+    <fullyQualifiedTypeName name="javafx.fxml.Initializable"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
 </qualifiedTypeNameHistroy>
