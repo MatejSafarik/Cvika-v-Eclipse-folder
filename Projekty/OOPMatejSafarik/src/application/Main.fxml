@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Arc?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.202" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Scene1Controller">
+   <children>
+      <Text layoutX="121.0" layoutY="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Matej's Auction House">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+      <Text layoutX="208.0" layoutY="346.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Buy low, sell high">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Arc fill="#e9ff1f" layoutX="130.0" layoutY="208.0" length="270.0" radiusX="63.0" radiusY="63.0" startAngle="45.0" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Circle fill="DODGERBLUE" layoutX="245.0" layoutY="208.0" radius="24.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="#ff4f1f" layoutX="338.0" layoutY="208.0" radius="24.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="DODGERBLUE" layoutX="435.0" layoutY="208.0" radius="24.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="DODGERBLUE" layoutX="538.0" layoutY="208.0" radius="24.0" stroke="BLACK" strokeType="INSIDE" />
+      <Button layoutX="311.0" layoutY="179.0" minWidth="36.0" mnemonicParsing="false" onAction="#switchToScene1" opacity="0.0" prefHeight="57.0" prefWidth="54.0">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Button>
+   </children>
+   <opaqueInsets>
+      <Insets top="100.0" />
+   </opaqueInsets>
+</AnchorPane>
